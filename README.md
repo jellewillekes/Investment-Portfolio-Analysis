@@ -1,2 +1,2 @@
 # PortfolioAnalysis-R
-Used for a investment competition
+Used for an investment competition
